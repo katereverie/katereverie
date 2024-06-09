@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jiantao.
-- 👀 I’m interested in full-stack software development.
+- 👀 I’m interested in full-stack software development and learning C#.
 - 🌱 I’m currently learning to use React more efficiently by building various frontend projects. 
 
 <!---
