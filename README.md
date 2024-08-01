@@ -2,7 +2,7 @@
 - 👀 I have previously built SAP projects using HTML, CSS, JavaScript and the React Framework.
 - 👀 These mini projects aimed at honing my frontend-related basic skills.
 - 👀 Currently, I'm focusing on full-stack software development using C# to hone my backend-related skills. 
-- 🌱 I’m currently moving towards learning ASP.NET to integrate my Capstone projects with a .NET Frontend Framework so that I can properly demonstrate solid, fundamental fullstack development skills.
+- 🌱 I’m also trying to integrate my Capstone projects with .NET Frontend Frameworks so that I can properly demonstrate solid, fundamental fullstack development skills in C# as well.
 
 - Besides programming, I'm an avid language learner and teacher, casual gamer, and a pragmatic philosopher.
 - When I am not lounging, I also enjoy dancing and jogging.  
