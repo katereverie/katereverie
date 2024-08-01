@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jiantao.
-- 👀 I’m interested in full-stack software development and learning C#.
-- 🌱 I’m currently learning to use React more efficiently by building various frontend projects. 
+- 👀 I do full-stack software development in mainly in C#.
+- 🌱 I’m currently moving towards learning ASP.NET to integrate my console projects with a .NET Frontend Framework. 
 
 <!---
 katereverie/katereverie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
