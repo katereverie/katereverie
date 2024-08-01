@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Jiantao.
 - 👀 I do full-stack software development in mainly in C#.
+- 👀 I have built projects using HTML, CSS, JavaScript and the React Framework. 
 - 🌱 I’m currently moving towards learning ASP.NET to integrate my console projects with a .NET Frontend Framework. 
 
 <!---
