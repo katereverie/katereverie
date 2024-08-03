@@ -4,7 +4,7 @@
 - 👀 Currently, I'm focusing on full-stack software development using C# to hone my backend-related skills. 
 - 🌱 I’m also trying to integrate my Capstone projects with .NET Frontend Frameworks so that I can properly demonstrate solid, fundamental fullstack development skills in C# as well.
 
-- Besides programming, I'm an avid language learner and teacher, casual gamer, and a pragmatic philosopher.
+- Besides programming, I enjoy learning languages, reading, and casual gaming.
 - When I am not lounging, I also enjoy dancing and jogging.  
 
 <!---
