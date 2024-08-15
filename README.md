@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Jiantao.
-- 👀 I have previously built SAP projects using HTML, CSS, JavaScript and the React Framework.
-- 👀 These mini projects aimed at honing my frontend-related basic skills.
-- 👀 Currently, I'm focusing on full-stack software development using C# to hone my backend-related skills. 
-- 🌱 I’m also trying to integrate my Capstone projects with .NET Frontend Frameworks so that I can properly demonstrate solid, fundamental fullstack development skills in C# as well.
+Hi, I’m Jiantao.
+- I have previously built SAP projects using HTML, CSS, JavaScript and the React Framework.
+- These projects solidified my frontend fundational knowledge.
+- Currently, I'm focusd on full-stack software development using the .NET(C#) tech ecosystem. 
 
-- Besides programming, I enjoy learning languages, reading, and casual gaming.
+- Fun facts about me
+• Besides programming, I enjoy learning languages, reading, and casual gaming.
 - When I am not lounging, I also enjoy dancing and jogging.  
 
 <!---
