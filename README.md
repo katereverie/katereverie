@@ -4,7 +4,7 @@ Hi, I’m Jiantao.
 - Currently, I'm focusd on full-stack software development using the .NET(C#) tech ecosystem. 
 
 - Fun facts about me
-• 
+  TBC
 
 <!---
 katereverie/katereverie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
