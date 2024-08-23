@@ -1,7 +1,7 @@
 Hi, I’m Jiantao. Want to get a quick vibe check at me? Read the following.
 
 - My takes on Software Development
-  1. Tools iterate quickly; fundamentals barely. Focus on fundamentals. 
+  1. Tools iterate quickly; fundamentals barely. Focus on fundamentals, adapt reasonably.
   2. Programmers are not developers; developers are not engineers/architects. They distinguish by their ability to abstract order from chaos.
   3. Shoot yourself in the foot early so that you don't blow your entire leg off later.
   4. Communication bridges different fields as software bridges machines and humans. Without communication there is no software.
