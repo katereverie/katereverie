@@ -1,4 +1,4 @@
-Hi, I’m Jiantao. Want to get a quick vibe check at me? Read the following.
+Hi, I’m Jiantao. Want to get a quick vibe check from me? Read the following.
 
 - My takes on Software Development
   1. Tools iterate quickly; fundamentals barely. Focus on fundamentals, adapt reasonably.
