@@ -9,12 +9,12 @@ Hi, I’m Jiantao. Want to get a quick vibe check from me? Read the following.
   - Proper rest increases productivity.
  
 - Fun facts about me
-  1. I was born on a snowy day where it hadn't snowed for 60 years.
-  2. I once had a squirrel and a lizard as pets.
+  - I was born on a snowy day where it hadn't snowed for 60 years.
+  - I once had a squirrel and a lizard as pets.
 
 - Cold facts about me
-  1. I speak English, German, and Japanese fluently as a Chinese native.
-  2. I've lived in Japan for 6 years and in Germany for 7 years.
+  - I speak English, German, and Japanese fluently as a Chinese native.
+  - I've lived in Japan for 6 years and in Germany for 7 years.
 
 <!---
 katereverie/katereverie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
