@@ -1,4 +1,4 @@
-# Hi, Want to get a quick vibe check from me? Read the following.
+# Hi, need a quick vibe check from me? Read on!
 
 ## My takes on Software Development
   - Tools iterate quickly; fundamentals barely. Focus on fundamentals, adapt reasonably.
