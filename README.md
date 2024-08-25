@@ -1,12 +1,12 @@
 Hi, I’m Jiantao. Want to get a quick vibe check from me? Read the following.
 
 - My takes on Software Development
-  1. Tools iterate quickly; fundamentals barely. Focus on fundamentals, adapt reasonably.
-  2. Seniorities of tech roles are distinguish by the ability to abstract order from chaos, not only at code organization but also at software design.
-  3. Shoot yourself in the foot early so that you don't blow your entire leg off later.
-  4. Communication bridges different fields as software bridges machines and humans. Without communication there is no software.
-  5. One person cannot wear all hats; but know who wears which hat!
-  6. 12 hours of work without proper rest does not increase productivity.
+  - Tools iterate quickly; fundamentals barely. Focus on fundamentals, adapt reasonably.
+  - Seniorities of tech roles are distinguish by the ability to abstract order from chaos, not only at code organization but also at software design.
+  - Shoot yourself in the foot early so that you don't blow your entire leg off later.
+  - Communication bridges different fields as software bridges machines and humans. Without communication there is no software.
+  - One person cannot wear all hats; but know who wears which hat!
+  - Proper rest increases productivity.
  
 - Fun facts about me
   1. I was born on a snowy day where it hadn't snowed for 60 years.
