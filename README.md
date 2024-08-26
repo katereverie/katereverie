@@ -2,7 +2,7 @@
 
 ## My takes on Software Development
   - Tools iterate quickly; fundamentals barely. Focus on fundamentals, adapt reasonably.
-  - Seniorities of tech roles are distinguish by the ability to abstract order from chaos, not only at code organization but also at software design.
+  - Planning is worth the time.
   - Shoot yourself in the foot early so that you don't blow your entire leg off later.
   - Communication bridges different fields as software bridges machines and humans. Without communication there is no software.
   - One person cannot wear all hats; but know who wears which hat!
