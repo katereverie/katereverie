@@ -1,6 +1,6 @@
-# Hi, need a quick vibe check from me? Read on!
+## Hi, need a quick vibe check from me? Read on!
 
-## My takes on Software Development
+### My takes on Software Development
   - Tools iterate quickly; fundamentals barely. Focus on fundamentals, adapt reasonably.
   - Planning is worth the time.
   - Shoot yourself in the foot early so that you don't blow your entire leg off later.
@@ -8,11 +8,11 @@
   - One person cannot wear all hats; but know who wears which hat!
   - Proper rest increases productivity.
  
-## Fun facts about me
+### Fun facts about me
   - I was born on a snowy day where it hadn't snowed for 60 years.
   - I once had a squirrel and a lizard as pets.
 
-## Cold facts about me
+### Cold facts about me
   - I speak English, German, and Japanese fluently as a Chinese native.
   - I've lived in Japan for 6 years and in Germany for 7 years.
 
