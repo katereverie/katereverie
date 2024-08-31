@@ -11,13 +11,13 @@
 
 ### Principle I follow
 
-  - Separation of Concerns, Single Responsibility Principle
+  - Separate concerns; integrate components properly.
   - Focus on fundamentals, adapt reasonably.
-  - Planning is worth the time.
+  - Plan adequately to reduce technical debt.
   - Grow from your mistakes and struggles.
-  - Proper rest increases productivity.
+  - Rest properly.
 
-### Methodology I have faith in 
+### Methods I (do my best to) practice 
 
   - Project Requirement Analysis, Documentation, Refactoring, Testing (Unit and Integration)
  
