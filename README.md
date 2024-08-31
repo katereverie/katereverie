@@ -1,12 +1,25 @@
 ## Hi, need a quick vibe check from me? Read on!
 
-### My takes on Software Development
-  - Tools iterate quickly; fundamentals barely. Focus on fundamentals, adapt reasonably.
+### Tech Stack I use
+
+  - Front-End: vanila JavaScript, HTML, CSS
+  - Back-End: C#, Python, SQL
+  - Front-End Frameworks & Libraries: SCSS, React 
+  -	Back-End Frameworks & Libraries: ASP.NET Core, Entity Framework, Dapper, NUnit 
+  -	Version Control & Hosting: Git, GitHub, Firebase
+  -	Other Tools: Docker, Azure Data Studio, Postman, Swagger, Microsoft SQL Server, VS, VS Code
+
+### Principle I follow
+
+  - Separation of Concerns, Single Responsibility Principle
+  - Focus on fundamentals, adapt reasonably.
   - Planning is worth the time.
-  - Shoot yourself in the foot early so that you don't blow your entire leg off later.
-  - Communication bridges different fields as software bridges machines and humans. Without communication there is no software.
-  - One person cannot wear all hats; but know who wears which hat!
+  - Grow from your mistakes and struggles.
   - Proper rest increases productivity.
+
+### Methodology I have faith in 
+
+  - Project Requirement Analysis, Documentation, Refactoring, Testing (Unit and Integration)
  
 ### Fun facts about me
   - I was born on a snowy day where it hadn't snowed for 60 years.
