@@ -1,6 +1,6 @@
 ## Hi, need a quick vibe check from me? Read on!
 
-### Tech Stack I use
+### Tech Stack I've used
 
   - Front-End: vanila JavaScript, HTML, CSS
   - Back-End: C#, Python, SQL
