@@ -30,7 +30,7 @@
 ### Fun facts about me
   - I was born on a snowy day where it hadn't snowed for 60 years.
   - I once had a squirrel and a lizard as pets.
-  - Dancing releases me from my thoughts.
+  - I dance to release myself from my thoughts.
 
 <!---
 katereverie/katereverie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
