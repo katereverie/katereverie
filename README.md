@@ -5,7 +5,7 @@
   - Front-End: vanila JavaScript, HTML, CSS
   - Back-End: C#, Python, SQL
   - Front-End Frameworks & Libraries: SCSS, React 
-  -	Back-End Frameworks & Libraries: ASP.NET Core, Entity Framework, Dapper, NUnit 
+  -	Back-End Frameworks & Libraries: ASP.NET Core (Learning in Progress), Entity Framework, Dapper, NUnit 
   -	Version Control & Hosting: Git, GitHub, Firebase
   -	Other Tools: Docker, Azure Data Studio, Postman, Swagger, Microsoft SQL Server, VS, VS Code
 
