@@ -1,15 +1,21 @@
 ## Hi, need a quick vibe check from me? Read on!
 
-### Tech Stack I've used
+### Tech Stack I use frequently
 
-  - Front-End: vanila JavaScript, HTML, CSS
-  - Back-End: C#, Python, SQL
-  - Front-End Frameworks & Libraries: SCSS, React 
-  -	Back-End Frameworks & Libraries: ASP.NET Core (Learning in Progress), Entity Framework, Dapper, NUnit 
-  -	Version Control & Hosting: Git, GitHub, Firebase
+  - Front-End: JavaScript (vanilia), HTML, CSS
+  - Back-End: C#, SQL
+  - Front-End Frameworks & Libraries: React
+  -	Fullstack Frameworks & Libraries: ASP.NET Core (learning in Progress)
+  -	Data Access Layer: Entity Framework, Dapper
+  -	Testing Framework: NUnit
+  -	Version Control & Hosting: Git (still a noob), GitHub, Firebase
   -	Other Tools: Docker, Azure Data Studio, Postman, Swagger, Microsoft SQL Server, VS, VS Code
 
-### Principle I follow
+### Languages I've dabbed in
+
+  - Python, Java. 
+
+### Principles I follow
 
   - Separate concerns; integrate components properly.
   - Focus on fundamentals, adapt reasonably.
@@ -24,6 +30,7 @@
 ### Fun facts about me
   - I was born on a snowy day where it hadn't snowed for 60 years.
   - I once had a squirrel and a lizard as pets.
+  - Dancing releases me from my thoughts.
 
 <!---
 katereverie/katereverie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
