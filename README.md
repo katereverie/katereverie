@@ -11,7 +11,7 @@
   -	Version Control & Hosting: Git (still a noob), GitHub, Firebase
   -	Other Tools: Docker, Azure Data Studio, Postman, Swagger, Microsoft SQL Server, VS, VS Code
 
-### Languages I've dabbed in
+### Languages I've dabbled in
 
   - Python, Java. 
 
