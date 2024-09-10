@@ -15,15 +15,13 @@
 | **Testing**                  | NUnit                                                                    |
 | **Version Control & Hosting**| <span style="color:red">Git</span> (beginner), GitHub, Firebase           |
 | **Tools**                    | Docker, Azure Data Studio, Postman, Swagger, Microsoft SQL Server, VS, VS Code |
-| **Development Principles**   | Separation of concerns                                                   |
+| **Development Principles**   | Separate concerns, plan properly                                                  |
 |                             | Focus on fundamentals                                                    |
-|                             | Reduce technical debt through proper planning                                   |
 |                             | Learn from mistakes and struggles                                                     |
 |                             | Rest properly                                                  |
-| **Methods I Practice**       | Requirement analysis                                                     |
-|                             | Documentation                                                            |
+| **Methods I (try to) Practice**       | Analyze requirements and document                                                    |
 |                             | Seek feedback and refactor                                                              |
-|                             | Unit test!                                            |
+|                             | Test!                                           |
 | **Fun Facts**                | I was born on a snowy day when it hadn't snowed for 60 years                   |
 |                             | I Once had a squirrel and a lizard as pets                                  |
 |                             | I dance to clear my thoughts                                               |
