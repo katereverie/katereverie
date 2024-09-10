@@ -7,7 +7,7 @@
 | **Back-End**                 | <span style="color:green">C#</span>, <span style="color:green">SQL</span> |
 |                             | **Frameworks & Libraries:** ASP.NET Core (learning in progress)           |
 |                             | **Data Access:** Entity Framework, Dapper                                 |
-| **Other Languages**  | - Python, Java                                                             |
+| **Other Languages**  | Python, Java                                                             |
 
 ## Others
 | **Category**                | **Details**                                                                 |
