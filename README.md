@@ -3,18 +3,17 @@
 | **Category**                | **Details**                                                                 |
 |-----------------------------|-----------------------------------------------------------------------------|
 | **Front-End**                |  <span style="color:blue">JavaScript</span>, HTML, CSS           |
-|                             |  **Frameworks & Libraries:** React                                         |
+|                             |  **Frameworks & Libraries:** React, Vue.js, SCSS, Bootstrap                                     |
 | **Back-End**                 | <span style="color:green">C#</span>, <span style="color:green">SQL</span> |
-|                             | **Frameworks & Libraries:** ASP.NET Core (learning in progress)           |
-|                             | **Data Access:** Entity Framework, Dapper                                 |
+|                             | **Frameworks & Libraries:** ASP.NET Core (learning in progress), Entity Framework Core, Dapper           |
 | **Other Languages**  | Python, Java                                                             |
 
 ## Others
 | **Category**                | **Details**                                                                 |
-|-----------------------------|-----------------------------------------------------------------------------|
+|-----------------------------|------------------------------------------------------------------------|
 | **Testing**                  | NUnit                                                                    |
 | **Version Control & Hosting**| <span style="color:red">Git</span> (beginner), GitHub, Firebase           |
-| **Tools**                    | Docker, Azure Data Studio, Postman, Swagger, Microsoft SQL Server, VS, VS Code |
+| **Other Tools**                    | Docker, Azure Data Studio, Postman, Swagger, Microsoft SQL Server, VS, VS Code |
 | **Development Principles**   | Separate concerns, plan properly                                                  |
 |                             | Focus on fundamentals                                                    |
 |                             | Learn from mistakes and struggles                                                     |
