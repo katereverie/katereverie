@@ -1,4 +1,4 @@
-## Tech Stack
+### Tech Stack
 
 | **Category**                | **Details**                                                                 |
 |-----------------------------|-----------------------------------------------------------------------------|
@@ -8,7 +8,7 @@
 |                             | **Frameworks & Libraries:** ASP.NET Core (learning in progress), Entity Framework Core, Dapper           |
 | **Other Languages**  | Python, Java                                                             |
 
-## Others
+### Others
 | **Category**                | **Details**                                                                 |
 |-----------------------------|------------------------------------------------------------------------|
 | **Testing**                  | NUnit                                                                    |
