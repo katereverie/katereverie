@@ -22,6 +22,6 @@
 |                             | Seek feedback and refactor                                                              |
 |                             | Test!                                           |
 | **Fun Facts**                | I was born on a snowy day when it hadn't snowed for 60 years                   |
-|                             | I Once had a squirrel and a lizard as pets                                  |
+|                             | I once had a squirrel and a lizard as pets                                  |
 |                             | I dance to clear my thoughts                                               |
 
