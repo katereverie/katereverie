@@ -5,10 +5,10 @@
     <table width="100%">
         <tr>
             <td>
-                <div align="center"><strong>Frontend Technologies</strong></div>
+                <div align="center"><strong>Frontend</strong></div>
             </td>
             <td>
-                <div align="center"><strong>Backend Technologies</strong></div>
+                <div align="center"><strong>Backend</strong></div>
             </td>
         </tr>
         <tr>
