@@ -1,4 +1,4 @@
-# Overview of the tech I use
+# Tech Stack Overview
 
 ## Front-End
 <p align="center">
