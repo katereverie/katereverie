@@ -1,12 +1,34 @@
-### Tech Stack (To be updated)
+# Overview of the tech I use
 
-| **Category**                  | **Details**                                                                 |
-|-------------------------------|-----------------------------------------------------------------------------|
-| **Front-End**                 | ![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg){:width="20px"} JavaScript, ![HTML](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg){:width="20px"} HTML, ![CSS](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg){:width="20px"} CSS           |
-| **Frameworks & Libraries:**   | ![React](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg){:width="20px"} React, ![SCSS](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/sass.svg){:width="20px"} SCSS, ![Bootstrap](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/bootstrap.svg){:width="20px"} Bootstrap                                     |
-| **Back-End**                  | ![C#](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/csharp.svg){:width="20px"} C#, ![SQL](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg){:width="20px"} SQL    |
-| **Frameworks & Libraries:**   | ![ASP.NET Core](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/dotnet.svg){:width="20px"} ASP.NET Core (WebAPIs, HttpClient, MVC, etc.), ![Entity Framework](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/dotnet.svg){:width="20px"} Entity Framework Core, Dapper           |
-| **Other Languages**           | ![Python](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg){:width="20px"} Python, ![Java](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg){:width="20px"} Java                                                             |
-| **Testing**                   | ![NUnit](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nunit.svg){:width="20px"} NUnit                                                                    |
-| **Version Control & Hosting** | ![Git](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg){:width="20px"} Git, ![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg){:width="20px"} GitHub, ![Firebase](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/firebase.svg){:width="20px"} Firebase           |
-| **Other Tools**               | ![Docker](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/docker.svg){:width="20px"} Docker, ![Azure Data Studio](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoftazure.svg){:width="20px"} Azure Data Studio, Postman, Swagger, ![Microsoft SQL Server](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoftsqlserver.svg){:width="20px"} Microsoft SQL Server, ![VS](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudio.svg){:width="20px"} VS, ![VS Code](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg){:width="20px"} VS Code |
+## Front-End
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" alt="JavaScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="60" alt="HTML5" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60" alt="CSS3" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="60" alt="React" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="60" alt="Bootstrap" />
+</p>
+
+## Back-End
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60" alt="C#" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" alt="Python" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="60" alt="SQL Server" />
+</p>
+
+## Version Control & Hosting
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="60" alt="Git" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="60" alt="GitHub" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" width="60" alt="Firebase" />
+</p>
+
+## Other Tools
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="60" height="60" alt="Visual Studio" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" alt="VS Code" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" width="60" alt="JetBrains Rider" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="60" alt="Docker" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" width="60" alt="Postman" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg" width="60" alt="Swagger" />
+</p>
