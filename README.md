@@ -1,12 +1,12 @@
 ### Tech Stack (To be updated)
 
-| **Category**                | **Details**                                                                 |
-|-----------------------------|-----------------------------------------------------------------------------|
-| **Front-End**                |  <span style="color:blue">JavaScript</span>, HTML, CSS           |
-|      **Frameworks & Libraries:**                       |   React, SCSS, Bootstrap                                     |
-| **Back-End**                 | <span style="color:green">C#</span>, <span style="color:green">SQL</span> |
-|     **Frameworks & Libraries:**                        |  ASP.NET Core (WebAPIs, HttpClient, MVC, etc.), Entity Framework Core, Dapper           |
-| **Other Languages**  | Python, Java                                                             |
-| **Testing**                  | NUnit                                                                    |
-| **Version Control & Hosting**| <span style="color:red">Git</span>, GitHub, Firebase           |
-| **Other Tools**                    | Docker, Azure Data Studio, Postman, Swagger, Microsoft SQL Server, VS, VS Code |
+| **Category**                  | **Details**                                                                 |
+|-------------------------------|-----------------------------------------------------------------------------|
+| **Front-End**                 | ![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg){:width="20px"} JavaScript, ![HTML](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg){:width="20px"} HTML, ![CSS](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg){:width="20px"} CSS           |
+| **Frameworks & Libraries:**   | ![React](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg){:width="20px"} React, ![SCSS](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/sass.svg){:width="20px"} SCSS, ![Bootstrap](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/bootstrap.svg){:width="20px"} Bootstrap                                     |
+| **Back-End**                  | ![C#](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/csharp.svg){:width="20px"} C#, ![SQL](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg){:width="20px"} SQL    |
+| **Frameworks & Libraries:**   | ![ASP.NET Core](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/dotnet.svg){:width="20px"} ASP.NET Core (WebAPIs, HttpClient, MVC, etc.), ![Entity Framework](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/dotnet.svg){:width="20px"} Entity Framework Core, Dapper           |
+| **Other Languages**           | ![Python](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg){:width="20px"} Python, ![Java](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg){:width="20px"} Java                                                             |
+| **Testing**                   | ![NUnit](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nunit.svg){:width="20px"} NUnit                                                                    |
+| **Version Control & Hosting** | ![Git](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg){:width="20px"} Git, ![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg){:width="20px"} GitHub, ![Firebase](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/firebase.svg){:width="20px"} Firebase           |
+| **Other Tools**               | ![Docker](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/docker.svg){:width="20px"} Docker, ![Azure Data Studio](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoftazure.svg){:width="20px"} Azure Data Studio, Postman, Swagger, ![Microsoft SQL Server](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoftsqlserver.svg){:width="20px"} Microsoft SQL Server, ![VS](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudio.svg){:width="20px"} VS, ![VS Code](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg){:width="20px"} VS Code |
